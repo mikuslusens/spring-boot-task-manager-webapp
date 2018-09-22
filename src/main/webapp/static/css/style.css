@@ -1,0 +1,23 @@
+.invisible-at-first {
+  display: none;
+}
+
+body {
+  padding:65px;
+}
+
+.task-name {
+	font-size: 18px;
+}
+
+.form-group {
+	display: block;
+}
+
+label {
+	display:block;
+}
+
+.btn {
+	margin-right: 15px;
+}
