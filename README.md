@@ -1,1 +1,1 @@
-A simple task manager web application developed using Spring Boot, JSP, JSTL and MySQL.
+A simple task manager web application developed using Spring Boot, JSP, JSTL and MySQL. The application's various aspects of operation are separated into different layers (multitier architecture), most notably, a service layer (REST) that handles the exchange of data between the user and the server.
